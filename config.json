@@ -1,0 +1,9 @@
+{
+  "APIKey": "key",
+  "secret": "secret",
+  "withdrawRatio": {
+    "kosh": "ratio"
+  },
+  "tradingUrl": "https://poloniex.com/tradingApi",
+  "logFile": "./log.txt"
+}
